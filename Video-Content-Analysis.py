@@ -36,7 +36,7 @@ class VideoContentAnalyzer:
         scenes = []
         frame_idx = 0
         prev_score = 0
-        threshold = 0.3
+        threshold = 0.25
         
         while cap.isOpened():
             ret, frame = cap.read()
