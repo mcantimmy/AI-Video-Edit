@@ -45,7 +45,7 @@
 - [ ] Add batch processing capabilities
 
 ## Testing and Quality
-- [ ] Add unit tests for core components
+- [x] Add unit tests for core components
 - [ ] Create test videos with known characteristics
 - [ ] Implement performance benchmarks
 - [ ] Add logging system
