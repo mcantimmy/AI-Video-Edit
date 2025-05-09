@@ -39,7 +39,7 @@
 - [ ] Audio mixing and enhancement suggestions
 
 ## User Interface
-- [ ] Create a simple web UI for the tool
+- [x] Create a simple web UI for the tool
 - [ ] Add visual timeline for edit decisions
 - [ ] Implement preview functionality
 - [ ] Add batch processing capabilities
