@@ -32,7 +32,7 @@
 - [ ] Add topic extraction from transcript
 
 ## Edit Generation
-- [ ] Implement more sophisticated edit decision algorithms
+- [x] Implement more sophisticated edit decision algorithms
 - [ ] Add B-roll suggestion
 - [ ] Support for different editing styles/templates
 - [ ] Transition recommendations between scenes
