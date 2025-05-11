@@ -40,8 +40,8 @@
 
 ## User Interface
 - [x] Create a simple web UI for the tool
-- [ ] Add visual timeline for edit decisions
-- [ ] Implement preview functionality
+- [x] Add visual timeline for edit decisions
+- [x] Implement preview functionality
 - [ ] Add batch processing capabilities
 
 ## Testing and Quality
