@@ -34,9 +34,9 @@
 ## Edit Generation
 - [x] Implement more sophisticated edit decision algorithms
 - [ ] Add B-roll suggestion
-- [ ] Support for different editing styles/templates
-- [ ] Transition recommendations between scenes
-- [ ] Audio mixing and enhancement suggestions
+- [x] Support for different editing styles/templates
+- [x] Transition recommendations between scenes
+- [x] Audio mixing and enhancement suggestions
 
 ## User Interface
 - [x] Create a simple web UI for the tool
