@@ -43,6 +43,8 @@
 - [x] Add visual timeline for edit decisions
 - [x] Implement preview functionality
 - [ ] Add batch processing capabilities
+- [ ] Add accesibility options
+
 
 ## Testing and Quality
 - [x] Add unit tests for core components
