@@ -43,7 +43,7 @@
 - [x] Add visual timeline for edit decisions
 - [x] Implement preview functionality
 - [ ] Add batch processing capabilities
-- [ ] Add accesibility options
+- [x] Add accesibility options
 
 
 ## Testing and Quality
