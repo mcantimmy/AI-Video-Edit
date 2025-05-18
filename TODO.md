@@ -26,7 +26,7 @@
 - [ ] Add configurable speech recognition models
 
 ## Content Analysis
-- [ ] Implement object and action recognition
+- [x] Implement object and action recognition
 - [ ] Add visual sentiment analysis
 - [ ] Improve content classification (biographical, informational, etc.)
 - [ ] Add topic extraction from transcript
