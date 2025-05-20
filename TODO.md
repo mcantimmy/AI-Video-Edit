@@ -39,11 +39,13 @@
 - [x] Audio mixing and enhancement suggestions
 
 ## User Interface
+- [ ] Add a simple text editor for the user to add notes to the video
 - [x] Create a simple web UI for the tool
 - [x] Add visual timeline for edit decisions
 - [x] Implement preview functionality
 - [ ] Add batch processing capabilities
 - [x] Add accesibility options
+
 
 
 ## Testing and Quality
